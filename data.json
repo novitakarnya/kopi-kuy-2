@@ -1,0 +1,111 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_Arabica Gayo.jpeg",
+            "nama": "Arabica Gayo",
+            "size": "627gr",
+            "harga": "111.000",
+            "link": "https://www.tokopedia.com/totalmarketshop/bz457-k-arabica-gayo-bener-meriah-coreros-coffee-250gr?extParam=ivf%3Dfalse%26src%3Dsearch"
+        },
+        {
+            "foto": "images/produk/product_Arabica Toraja.jpeg",
+            "nama": "Arabica Toraja",
+            "size": "350gr",
+            "harga": "62.500",
+            "link": "https://www.tokopedia.com/scarlettz/kopi-setia-toraja-arabica-kalosi-super-250gr-bubuk?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "images/produk/procuct_Arabica Flores Bajawa.jpg",
+            "nama": "Arabica Flores",
+            "size": "250gr",
+            "harga": "90.000",
+            "link": "https://www.tokopedia.com/misaf/kopi-bajawa-flores-arabica?extParam=ivf%3Dfalse%26src%3Dsearch"
+        },
+        {
+            "foto": "images/produk/product-arabicawamena.jpg",
+            "nama": "Arabica Wamena",
+            "size": "550gr",
+            "harga": "132.000",
+            "link": "https://www.tokopedia.com/caffeinedope/kopi-arabika-wamena-500-gr-single-origin-bean-biji-ground-bubuk-coarse-kasar?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "images/produk/product_luwakarabicamandheling.jpg",
+            "nama": "Arabica Mandheling (Luwak)",
+            "size": "200gr",
+            "harga": "250.000",
+            "link": "https://www.tokopedia.com/wonderfuleast/kopi-maharaja-mandheling?src=topads"
+        },
+        {
+            "foto": "images/produk/product_arabicalintong.jpg",
+            "nama": "Arabica Lintong (Specialty)",
+            "size": "250gr",
+            "harga": "73.000",
+            "link": "https://www.tokopedia.com/summerfieldroastery/kopi-lintong-arabika-summerfield-specialty-250g-bubuk-halus-medium?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "images/produk/product_arabicahalumongo.jpg",
+            "nama": "Arabica Halu Mango",
+            "size": "500gr",
+            "harga": "129.000",
+            "link": "https://www.tokopedia.com/toko-biji-kopi/biji-kopi-roasted-bean-arabika-halu-mango-500-gram-extra-coarse"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_Lanang Robusta.jpg",
+            "nama": "Robusta Lanang",
+            "size": "200gr",
+            "harga": "50.900",
+            "link": "https://www.tokopedia.com/sakhacoffee/kopi-lanang-robusta-pagar-alam-peaberry-coffe-bean-espresso-biji-200gr-biji-kopi?extParam=ivf%3Dfalse%26src%3Dsearch"
+        },
+        {
+            "foto": "images/produk/product_javarobusta.jpg",
+            "nama": "Java Robusta",
+            "size": "900gr",
+            "harga": "69.000",
+            "link": "https://www.tokopedia.com/leitecoffee/kopi-java-robusta-900g-roastedbean-biji-sangrai?extParam=ivf%3Dfalse%26src%3Dsearch%26whid%3D5931369"
+        },
+        {
+            "foto": "images/produk/product_kopi luwak robusta.jpg",
+            "nama": "Luwak Robusta",
+            "size": "250 Gram",
+            "harga": "240.000",
+            "link": "https://www.tokopedia.com/kompenicoffee/kopi-luwak-asli-250gr-robusta-bubuk?extParam=ivf%3Dfalse%26src%3Dsearch"
+        },
+        {
+            "foto": "images/produk/product_robustaacehgayo.jpg",
+            "nama": "Robusta Aceh Gayo",
+            "size": "250 Gram",
+            "harga": "57.500",
+            "link": "https://www.tokopedia.com/waterground/kopi-robusta-aceh-gayo-250-grams-biji-bubuk-coffee-beans-grounds-biji?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true"
+        },
+        {
+            "foto": "images/produk/product_robusta kintamani.jpg",
+            "nama": "Robusta Kintamani",
+            "size": "500 Gram",
+            "harga": "74.900",
+            "link": "https://www.tokopedia.com/sakhacoffee/biji-kopi-bubuk-robusta-bali-kintamani-sakha-coffee-roastery-500-gram-biji-kopi?extParam=ivf%3Dfalse%26src%3Dsearch"
+        },
+        {
+            "foto": "images/produk/product_robustalampungredhoney.png",
+            "nama": "Robusta Lampung Red Honey",
+            "size": "500 Gram",
+            "harga": "72.000",
+            "link": "https://www.tokopedia.com/fryandroast/kopi-robusta-lampung-honey-500-gram-biji?extParam=ivf%3Dfalse&src=topads"
+        },
+        {
+            "foto": "images/produk/product_robustanaturalsidikalang.jpg",
+            "nama": "Robusta Sidikalang (Natural)",
+            "size": "250 Gram",
+            "harga": "25.000",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-robusta-natural-sidikalang-premium-250-gr-biji?extParam=ivf%3Dfalse%26src%3Dsearch"
+        },
+        {
+            "foto": "images/produk/product_robustasidikalangnew.png",
+            "nama": "Robusta Sidikalang",
+            "size": "500 Gram",
+            "harga": "65.000",
+            "link": "https://www.tokopedia.com/hatanacoffee/kopi-robusta-sidikalang-roasted-bean-500-gram-whole-bean?extParam=ivf%3Dfalse%26src%3Dsearch"
+        }
+    ]
+}
